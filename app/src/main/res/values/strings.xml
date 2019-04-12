@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My First App</string>
+    <string name="button_accelerometers">Accelerometers</string>
+    <string name="label">Choose which sensor(s) to test:</string>
+    <string name="button_compass">Compass</string>
+    <string name="degrees">0°</string>
+    <string name="X_value">X :</string>
+    <string name="Y_value">Y :</string>
+    <string name="Z_value">Z :</string>
+    <string name="direction">move it</string>
+</resources>
